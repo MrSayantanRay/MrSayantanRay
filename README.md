@@ -44,7 +44,7 @@ I am always open to discussing data, mathematics, or new project ideas. Feel fre
 
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayantanray429@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayantan-ray-7a3a73350)
-- [![Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sayantan-personal-portfolio-five.vercel.app/)
+- [![Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sayantan-portfolio-sigma.vercel.app/)
 
 
 <div align="center">
